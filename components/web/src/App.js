@@ -5,12 +5,12 @@ const App = () =>
   <div className="App">
     <header className="App-header">
       <h1>
-        Your new web app, stamped out with <span role="img" aria-label="love">💖</span> and care by&nbsp; 
-        <a className="bp-link" href="https://platter.dev" target="_blank" rel="noopener noreferrer">Platter</a>
+        The default landing page for the home of the "Help My Neighbor" project. Made with <span role="img" aria-label="love">💖</span>
+by working remotely<span role="img" aria-label="world">🌍</span>.
       </h1>
-      <h2><span role="img" aria-label="GOGOGO">🏃</span> now get going!</h2>
+      <h2><span role="img" aria-label="Help My Neighbor">🏃</span></h2>
       <p>
-        (Edit <code>components/web/src/App.js</code> and save to reload. You are viewing the {process.env.REACT_APP_WHEREAMI} deployment.)
+        A tool designed to match willing helpers with the neighbors in need of help.
       </p>
     </header>
   </div>;
